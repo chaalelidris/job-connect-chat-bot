@@ -1,0 +1,63 @@
+[
+    {
+      "question": "How does JobConnect work?",
+      "answer": "JobConnect uses artificial intelligence to analyze resumes, extract key skills, and automatically score candidates based on your criteria. The platform allows you to post job offers, manage applications, and optimize the recruitment process."
+    },
+    {
+      "question": "How much does JobConnect cost?",
+      "answer": "We offer different plans tailored to all needs. Contact us to get a personalized quote based on the size of your company and your recruitment volume."
+    },
+    {
+      "question": "Can I try JobConnect for free?",
+      "answer": "Yes, we offer a 14-day free trial so you can test all the features of our platform without any commitment."
+    },
+    {
+      "question": "How can I integrate JobConnect with my existing tools?",
+      "answer": "JobConnect easily integrates with most ATS and HR tools on the market. Our technical team will assist you in setting up and integrating with your existing systems."
+    },
+    {
+      "question": "How can I register on the platform?",
+      "answer": "Click on 'Sign Up' at the top right of the homepage and fill out the registration form."
+    },
+    {
+      "question": "How do I apply for a job offer?",
+      "answer": "Browse the available offers, click on the one you're interested in, then click the 'Apply' button. Follow the instructions to submit your application."
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "Click on 'Forgot password' when logging in and follow the instructions sent by email."
+    },
+    {
+      "question": "Can I modify my application after submitting it?",
+      "answer": "Yes, you can modify your application from your dashboard as long as the deadline has not passed."
+    },
+    {
+      "question": "How can I contact support?",
+      "answer": "You can contact support via the 'Contact' page or by email at support@jobconnect.com."
+    },
+    {
+      "question": "What are the main features of JobConnect?",
+      "answer": "Job posting, HR dashboard, AI chatbot, adaptive questionnaire, candidate portal, exports, and reports."
+    },
+    {
+      "question": "How is my data protected?",
+      "answer": "Your data is stored securely and processed in accordance with our privacy policy. Advanced security policies are applied to ensure the confidentiality and integrity of your information."
+    },
+    {
+      "question": "What roles exist on the platform?",
+      "answer": "There are three main roles: candidate, recruiter, and administrator. Each role has a dedicated space and specific features."
+    },
+    {
+      "question": "How do I delete my account?",
+      "answer": "To delete your account, please contact support via the 'Contact' page."
+    },
+    {
+      "question": "How do I receive notifications about my application's progress?",
+      "answer": "You will receive notifications by email and in your candidate portal at each important stage of the recruitment process."
+    },
+    {
+      "question": "Can I export my application data?",
+      "answer": "Yes, recruiters can export applications and reports in CSV format from their dashboard."
+    }
+  ]
+  

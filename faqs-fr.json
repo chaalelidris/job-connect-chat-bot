@@ -1,0 +1,62 @@
+[
+    {
+      "question": "Comment fonctionne JobConnect ?",
+      "answer": "JobConnect utilise l'intelligence artificielle pour analyser les CV, extraire les compétences clés et scorer automatiquement les candidats selon vos critères. La plateforme permet de publier des offres, gérer les candidatures et optimiser le processus de recrutement."
+    },
+    {
+      "question": "Combien coûte JobConnect ?",
+      "answer": "Nous proposons différentes formules adaptées à tous les besoins. Contactez-nous pour obtenir un devis personnalisé en fonction de la taille de votre entreprise et du volume de recrutements."
+    },
+    {
+      "question": "Puis-je essayer JobConnect gratuitement ?",
+      "answer": "Oui, nous proposons un essai gratuit de 14 jours pour vous permettre de tester toutes les fonctionnalités de notre plateforme sans engagement."
+    },
+    {
+      "question": "Comment intégrer JobConnect à mes outils existants ?",
+      "answer": "JobConnect s'intègre facilement avec la plupart des ATS et outils RH du marché. Notre équipe technique vous accompagne dans la mise en place et l'intégration avec vos systèmes existants."
+    },
+    {
+      "question": "Comment puis-je m'inscrire sur la plateforme ?",
+      "answer": "Cliquez sur 'S'inscrire' en haut à droite de la page d'accueil et remplissez le formulaire d'inscription."
+    },
+    {
+      "question": "Comment postuler à une offre d'emploi ?",
+      "answer": "Parcourez les offres disponibles, cliquez sur l'offre qui vous intéresse puis sur le bouton 'Postuler'. Suivez les instructions pour soumettre votre candidature."
+    },
+    {
+      "question": "Comment réinitialiser mon mot de passe ?",
+      "answer": "Cliquez sur 'Mot de passe oublié' lors de la connexion et suivez les instructions envoyées par email."
+    },
+    {
+      "question": "Puis-je modifier ma candidature après l'avoir soumise ?",
+      "answer": "Oui, vous pouvez modifier votre candidature depuis votre tableau de bord tant que la date limite n'est pas dépassée."
+    },
+    {
+      "question": "Comment contacter le support ?",
+      "answer": "Vous pouvez contacter le support via la page 'Contact' ou par email à support@jobconnect.com."
+    },
+    {
+      "question": "Quelles sont les fonctionnalités principales de JobConnect ?",
+      "answer": "Publication d'offres, tableau de bord RH, chatbot IA, questionnaire adaptatif, espace candidat, exports et rapports."
+    },
+    {
+      "question": "Comment mes données sont-elles protégées ?",
+      "answer": "Vos données sont stockées de manière sécurisée et traitées conformément à notre politique de confidentialité. Des politiques de sécurité avancées sont appliquées pour garantir la confidentialité et l'intégrité de vos informations."
+    },
+    {
+      "question": "Quels rôles existent sur la plateforme ?",
+      "answer": "Il existe trois rôles principaux : candidat, recruteur et administrateur. Chaque rôle dispose d'un espace dédié et de fonctionnalités spécifiques."
+    },
+    {
+      "question": "Comment supprimer mon compte ?",
+      "answer": "Pour supprimer votre compte, veuillez contacter le support via la page 'Contact'."
+    },
+    {
+      "question": "Comment recevoir des notifications sur l'avancement de ma candidature ?",
+      "answer": "Vous recevrez des notifications par email et dans votre espace candidat à chaque étape importante du processus de recrutement."
+    },
+    {
+      "question": "Puis-je exporter les données de mes candidatures ?",
+      "answer": "Oui, les recruteurs peuvent exporter les candidatures et les rapports au format CSV depuis leur tableau de bord."
+    }
+  ] 
