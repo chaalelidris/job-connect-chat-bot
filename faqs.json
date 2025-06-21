@@ -4,6 +4,30 @@
       "answer": "Hello and welcome to JobConnect! I am your virtual assistant. Ask me anything about our platform, features, or how to get started. How can I help you today?"
     },
     {
+      "question": "Hi!",
+      "answer": "Hi there! Welcome to JobConnect. I am your virtual assistant. How can I help you today?"
+    },
+    {
+      "question": "Hey!",
+      "answer": "Hey! Welcome to JobConnect. I am here to assist you with any questions about our platform. How can I help you today?"
+    },
+    {
+      "question": "Good morning!",
+      "answer": "Good morning! Welcome to JobConnect. I am your virtual assistant. How can I help you today?"
+    },
+    {
+      "question": "Good afternoon!",
+      "answer": "Good afternoon! Welcome to JobConnect. I am your virtual assistant. How can I help you today?"
+    },
+    {
+      "question": "Good evening!",
+      "answer": "Good evening! Welcome to JobConnect. I am your virtual assistant. How can I help you today?"
+    },
+    {
+      "question": "Welcome!",
+      "answer": "Welcome to JobConnect! I am your virtual assistant. Ask me anything about our platform, features, or how to get started. How can I help you today?"
+    },
+    {
       "question": "What is this platform?",
       "answer": "JobConnect is an AI-powered recruitment platform designed to help companies find the best candidates efficiently. It offers tools for posting jobs, managing applications, and using artificial intelligence to match candidates to job offers."
     },
