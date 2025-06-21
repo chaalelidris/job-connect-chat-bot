@@ -1,5 +1,13 @@
 [
     {
+      "question": "Hello!",
+      "answer": "Hello and welcome to JobConnect! I am your virtual assistant. Ask me anything about our platform, features, or how to get started. How can I help you today?"
+    },
+    {
+      "question": "What is this platform?",
+      "answer": "JobConnect is an AI-powered recruitment platform designed to help companies find the best candidates efficiently. It offers tools for posting jobs, managing applications, and using artificial intelligence to match candidates to job offers."
+    },
+    {
       "question": "How does JobConnect work?",
       "answer": "JobConnect uses artificial intelligence to analyze resumes, extract key skills, and automatically score candidates based on your criteria. The platform allows you to post job offers, manage applications, and optimize the recruitment process."
     },
