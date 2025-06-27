@@ -96,7 +96,7 @@ def get_embedding(text):
 def fetch_jobs_from_supabase():
     if not supabase:
         return []
-    response = supabase.table("jobs").select("id, title, description, requirements").execute()
+    response = supabase.table("jobs").select("id, title, description, company, location, type, salary_min, salary_max").execute()
     return response.data if response.data else []
 
 def find_matching_jobs(cv_text, top_n=5, threshold=0.4):
@@ -112,4 +112,18 @@ def find_matching_jobs(cv_text, top_n=5, threshold=0.4):
     jobs_filtered = [job for job in jobs if job["similarity"] >= threshold]
     # Sort by similarity
     jobs_sorted = sorted(jobs_filtered, key=lambda x: x["similarity"], reverse=True)
-    return jobs_sorted[:top_n] 
+    # Return detailed info for frontend
+    return [
+        {
+            "id": job.get("id"),
+            "title": job.get("title"),
+            "description": job.get("description"),
+            "company": job.get("company"),
+            "location": job.get("location"),
+            "type": job.get("type"),
+            "salary_max": job.get("salary_max"),
+            "salary_min": job.get("salary_min"),
+            "similarity": job["similarity"]
+        }
+        for job in jobs_sorted[:top_n]
+    ] 
