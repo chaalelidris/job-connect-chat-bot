@@ -4,4 +4,8 @@ sentence-transformers
 spacy
 scikit-learn
 pydantic
-python-multipart 
+python-multipart
+pdfplumber
+python-docx
+supabase
+numpy 
