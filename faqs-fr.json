@@ -58,5 +58,25 @@
     {
       "question": "Puis-je exporter les données de mes candidatures ?",
       "answer": "Oui, les recruteurs peuvent exporter les candidatures et les rapports au format CSV depuis leur tableau de bord."
+    },
+    {
+      "question": "Super bot !",
+      "answer": "Merci beaucoup ! Je suis là pour vous aider sur JobConnect. Votre retour me fait très plaisir !"
+    },
+    {
+      "question": "Tu es génial !",
+      "answer": "Merci ! Je suis ravi d'avoir pu vous aider. Si vous avez d'autres questions, n'hésitez pas !"
+    },
+    {
+      "question": "Bravo !",
+      "answer": "Merci pour vos encouragements ! Dites-moi si je peux faire autre chose pour vous."
+    },
+    {
+      "question": "Merci le chatbot !",
+      "answer": "Avec plaisir ! Je suis toujours là pour répondre à vos questions sur JobConnect."
+    },
+    {
+      "question": "Tu es le meilleur !",
+      "answer": "Merci ! Je suis heureux de pouvoir vous aider. Si besoin, je suis là !"
     }
   ] 

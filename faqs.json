@@ -90,6 +90,26 @@
     {
       "question": "Can I export my application data?",
       "answer": "Yes, recruiters can export applications and reports in CSV format from their dashboard."
+    },
+    {
+      "question": "Great bot!",
+      "answer": "Thank you so much! I'm here to help you with anything you need on JobConnect. Your feedback means a lot!"
+    },
+    {
+      "question": "You are awesome!",
+      "answer": "Thank you! I'm glad I could assist you. If you have more questions, just ask!"
+    },
+    {
+      "question": "Good job!",
+      "answer": "I appreciate your kind words! Let me know if there's anything else I can do for you."
+    },
+    {
+      "question": "Thanks chatbot!",
+      "answer": "You're welcome! I'm always here to help you with your JobConnect questions."
+    },
+    {
+      "question": "You are the best!",
+      "answer": "Thank you! I'm happy to be of service. If you need anything else, just let me know!"
     }
   ]
   
