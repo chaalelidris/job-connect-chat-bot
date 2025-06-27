@@ -110,6 +110,26 @@
     {
       "question": "You are the best!",
       "answer": "Thank you! I'm happy to be of service. If you need anything else, just let me know!"
+    },
+    {
+      "question": "Why is my resume not being analysed?",
+      "answer": "There could be several reasons: your resume file format may not be supported (please use PDF or DOCX), the file size may be too large, or there may be a temporary technical issue. Please try uploading again or contact support if the problem persists."
+    },
+    {
+      "question": "How does JobConnect analyse my resume?",
+      "answer": "JobConnect uses AI to scan your resume, extract your skills, experience, and education, and then matches these to job requirements. This helps recruiters find the best candidates for each position."
+    },
+    {
+      "question": "Why am I not being matched to any jobs?",
+      "answer": "If you are not being matched, it may be because your profile or resume does not closely match the requirements of current job postings. Make sure your resume is up to date and includes relevant skills and experience."
+    },
+    {
+      "question": "How can I improve my chances of being matched to jobs?",
+      "answer": "Ensure your resume is complete, accurate, and highlights your key skills and experience. Tailor your profile to the types of jobs you are interested in, and keep your information up to date."
+    },
+    {
+      "question": "Is my resume data safe during analysis?",
+      "answer": "Yes, your resume and personal data are processed securely and in accordance with our privacy policy. We use advanced security measures to protect your information."
     }
   ]
   

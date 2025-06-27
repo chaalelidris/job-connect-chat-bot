@@ -78,5 +78,25 @@
     {
       "question": "Tu es le meilleur !",
       "answer": "Merci ! Je suis heureux de pouvoir vous aider. Si besoin, je suis là !"
+    },
+    {
+      "question": "Pourquoi mon CV n'est-il pas analysé ?",
+      "answer": "Plusieurs raisons sont possibles : le format de votre CV n'est peut-être pas pris en charge (utilisez PDF ou DOCX), la taille du fichier est trop grande ou il y a un problème technique temporaire. Veuillez réessayer ou contacter le support si le problème persiste."
+    },
+    {
+      "question": "Comment JobConnect analyse-t-il mon CV ?",
+      "answer": "JobConnect utilise l'IA pour analyser votre CV, extraire vos compétences, expériences et formations, puis les comparer aux exigences des offres d'emploi. Cela aide les recruteurs à trouver les meilleurs candidats pour chaque poste."
+    },
+    {
+      "question": "Pourquoi ne suis-je associé à aucune offre d'emploi ?",
+      "answer": "Si vous n'êtes associé à aucune offre, cela peut être dû au fait que votre profil ou CV ne correspond pas suffisamment aux exigences des offres actuelles. Assurez-vous que votre CV est à jour et met en avant vos compétences et expériences pertinentes."
+    },
+    {
+      "question": "Comment améliorer mes chances d'être associé à des offres ?",
+      "answer": "Veillez à ce que votre CV soit complet, précis et mette en avant vos compétences clés et expériences. Adaptez votre profil aux types de postes recherchés et tenez vos informations à jour."
+    },
+    {
+      "question": "Mes données de CV sont-elles en sécurité lors de l'analyse ?",
+      "answer": "Oui, votre CV et vos données personnelles sont traités de manière sécurisée et conformément à notre politique de confidentialité. Nous appliquons des mesures de sécurité avancées pour protéger vos informations."
     }
   ] 
